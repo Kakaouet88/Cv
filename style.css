@@ -1,1 +1,48 @@
+body
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p
+{
+    font-size: medium;
+}
 
+.photoID
+{
+    float: left;
+}
+#A_propos
+{
+    text-align: justify;
+}
+.header
+{
+    border: 0px  solid;
+    box-shadow: 0px 8px 10px gray;
+    text-shadow: gray 0px 3px 8px;
+}
+h2
+{
+    font-size: large;
+    text-shadow: gray 0px 3px 8px;
+    text-transform: uppercase;
+}
+em
+{
+    font-style: italic;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+a:hover
+{
+    color: crimson;
+    font-weight: bold;
+}
+a:active
+{
+    background-color: blue;
+}
